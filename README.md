@@ -39,7 +39,6 @@ This app provides a lightweight interface that helps users think through the ess
 - AI-powered prompt refinement
 
 ## Live Demo
-(Add your Netlify or Vercel link here)
-
+https://ai-prompt-builder-prime.netlify.app/
 ## Author
 Dan Gilmore
